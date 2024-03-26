@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from 'next/link';
-import Header from './Header/Header';
+import Header from './Header/Header.jsx';
 
 export default function Home() {
   return (
