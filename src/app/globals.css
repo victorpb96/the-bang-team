@@ -18,6 +18,7 @@
 
 body {
   color: lightblue;
+  background-color: rgb(148, 209, 230);
 }
 
 @layer utilities {
